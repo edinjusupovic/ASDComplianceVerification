@@ -3,10 +3,10 @@ For Australians Only - GRC Related - ASDComplianceVerification
 
 >A simple suite designed to check the compliance of host and end user systems against ASD standards.
 
-##What are ASD Standards?
+## What are ASD Standards?
 Australian Signals Directorate - Australian Government | Department of Defence
 
-####ASD Top 8
+#### ASD Top 8
 https://www.asd.gov.au/publications/protect/essential-eight-explained.htm
 	
 
